@@ -1,4 +1,4 @@
-![Banner](assets/GitHubHeader.png)
+![Banner](profile/assets/GitHubHeader.png)
 # NExT Nova Experiência de Trabalho
 
 Seja bem-vindo à Comunidade NExT 2023.1! 🚀
