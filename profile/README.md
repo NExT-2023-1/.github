@@ -1,4 +1,4 @@
-[![NExT's GitHub Banner](assets/GitHubHeader.png)](https://www.cesar.school/next-nova-experiencia-de-trabalho/)
+![Banner](assets/GitHubHeader.png)
 # NExT Nova Experiência de Trabalho
 
 Seja bem-vindo à Comunidade NExT 2023.1! 🚀
